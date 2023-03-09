@@ -3,9 +3,9 @@ package com.ncodeit.generics;
 import java.util.ArrayList;
 import java.util.List;
 
-public class CustomList<T> {
+public class CustomList[T] {
 
-	private List<T> lst=new ArrayList<>();
+	private CustomList[T] lst=new ArrayList();
 	
 	
 	public void add(T obj){
